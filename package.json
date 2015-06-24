@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/eiriksm/tessel-to-google-spreadsheet",
   "dependencies": {
-    "ambient-attx4": "^0.2.4",
-    "climate-si7005": "^0.1.3",
+    "ambient-attx4": "^0.2.5",
+    "climate-si7005": "^0.1.4",
     "tessel-plops-logger": "^1.1.0",
     "tessel-temp-logger": "^1.1.0"
   }

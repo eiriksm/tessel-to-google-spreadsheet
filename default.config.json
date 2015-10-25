@@ -4,5 +4,7 @@
   "url": "",
   "interval": 60,
   "plopId": "",
-  "tempId": ""
+  "plopHeader": "",
+  "tempId": "",
+  "tempHeader": ""
 }

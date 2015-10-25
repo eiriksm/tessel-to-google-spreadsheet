@@ -19,7 +19,7 @@
   "dependencies": {
     "ambient-attx4": "^0.2.5",
     "climate-si7005": "^0.1.4",
-    "tessel-plops-logger": "^1.1.0",
-    "tessel-temp-logger": "^1.1.0"
+    "tessel-plops-logger": "^1.2.0",
+    "tessel-temp-logger": "^1.3.1"
   }
 }
